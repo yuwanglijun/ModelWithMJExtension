@@ -1,0 +1,1 @@
+{    "name": "ad",    "type": "loop",    "titleItem": {        "name": "titleNme",        "price": "666"    },    "items":[             {             "name": "ad1",             "price": "111"             },             {             "name": "ad2",             "price": "222"             }    ]}
