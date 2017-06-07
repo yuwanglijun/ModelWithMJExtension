@@ -1,5 +1,5 @@
 # ModelWithMJExtension
-MJExtension的简单实用与小结。
+MJExtension的简单使用与小结。
 
 1.如果是普通的json转model只需一句话mj_objectWithKeyValues即可。    
 2.如果model中有数据，数组中又是model，则记得调mj_setupObjectClassInArray指定数组中model的类型。    
